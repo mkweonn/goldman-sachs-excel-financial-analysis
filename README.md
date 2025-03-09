@@ -1,4 +1,3 @@
-# goldman-sachs-excel-financial-analysis
 Goldman Sachs Excel Skills for Business Job Simulation on Forage
 
 Objective:
@@ -15,3 +14,9 @@ Excel | Financial Forecasting | Cash Flow Modeling and Analysis | P&L Statements
 
 Outcome:
 A structured financial roadmap and dashboard to guide business decisions.
+
+!(Forecast Assumptions.png)
+!(P&L Forecast.png)
+!(Cash Flow Forecast.png)
+!(Visualization1.png)
+!(Visualization2.png)
