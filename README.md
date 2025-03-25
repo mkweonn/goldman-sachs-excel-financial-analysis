@@ -1,4 +1,4 @@
-# Goldman Sachs Excel Skills for Business Job Simulation on Forage
+# Goldman Sachs Excel Skills for Business
 
 ## Objective:
 Assist a cupcake shop in forecasting its 5-year business plan by analyzing account sales data, producing a Profit & Loss (P&L) statement, forecasting cash flows, and creating a dashboard to support data-driven business decisions.
